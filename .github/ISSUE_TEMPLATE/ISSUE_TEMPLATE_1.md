@@ -48,7 +48,3 @@ xx页面功能列表
   - 表单验证成功 - 更新该数据
   - 表单验证失败 - 展示报错信息
 
-原型图
----
-<img width="785" alt="image" src="https://user-images.githubusercontent.com/19775358/156767543-797859be-450e-4ab2-b50e-a3954f97eaf3.png">
-
